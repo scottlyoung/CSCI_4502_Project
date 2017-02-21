@@ -1,4 +1,4 @@
-# CSCI_4502_Project
+# CSCI_4502_Project - Consumer Complaint Analysis
 
 Cory Morales
 
