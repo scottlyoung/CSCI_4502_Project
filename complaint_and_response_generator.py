@@ -30,7 +30,7 @@ with open(sys.argv[1], "r") as input_File, open("complaintNarratives.csv", 'w') 
 	#Set up csv readers and writers
 	readcsv = csv.reader(input_File)
 	listcsv = list(readcsv)
-	complain_Writer = csv.writer(complaints_File, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+	complaint_Writer = csv.writer(complaints_File, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 	response_Writer = csv.writer(responses_File, delimiter=',', quoting=csv.QUOTE_MINIMAL)
 	
 	#set up counters to count up to 100 for each attribute
@@ -53,10 +53,11 @@ with open(sys.argv[1], "r") as input_File, open("complaintNarratives.csv", 'w') 
 			response_Counter= response_Counter + 1
 		
 		#If the correct attributes have words in them, we are allowed to write the entry to the file
-		if (complaint_Detected == True):
+		if (complaint_Detected == True and complaint_Counter < 100):
 			complaint_Writer.writerow(g)
 			
-		if (response_Detected == True):
+			
+		if (response_Detected == True and response_Counter < 100):
 			response_Writer.writerow(g)
 		
 		#If both attributes have detected 100 entries each, we are allowed to leave before reading the whole file
