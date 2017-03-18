@@ -79,14 +79,15 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 		if (g[15] != '' and g[15] != 'Yes' and g[15] != 'No'):
 			g[15] = "ERROR"
 		
-		#Consumer disputed?
+		#Timely Response?
 		if (g[15] == ''):
 			g[15] = "UNKNOWN"
 			
-		#Complaint ID
+		#Consumer disputed?
 		if (g[16]== ''):
 			g[16] = "UNKNOWN"
 			
+		#Complaint ID
 		if (g[17] == ''):
 			g[17] = "UNKNOWN"
 
