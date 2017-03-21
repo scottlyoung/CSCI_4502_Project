@@ -4,7 +4,7 @@ import csv
 
 '''
 this program will create a smaller cav from a random sample of entries of a larger one.
-Run with <your python interpreter> randSampCreat.py <input file> <output file> <number of entries to put in putput file>
+Run with <your python interpreter> randSampCreat.py <input file> <output file> <number of entries to put in the output file>
 '''
 
 with open(sys.argv[1], "r") as in_file_raw:
