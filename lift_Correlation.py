@@ -136,7 +136,7 @@ with open(sys.argv[1], "r") as input_File:
 			
 			#in the final dictionary, store each unique value in column 1. The "NULL" is reserved for the value in the second attribute the correlates best
 			#-100 is for the chi-square value between the chosen attribute 1 and 2 values
-			final_dict[entry[c1]] = ["NULL", -100]
+			final_dict[g[c1]] = ["NULL", -100]
 			
 
 		#For each combination of attribute 1 and 2 values, iterate and:
