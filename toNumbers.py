@@ -1,7 +1,8 @@
 import sys
 import csv
+import numpy
 
-def date_to_number:
+#def date_to_number:
 
 def date_received(string):
 	return [0]
@@ -70,7 +71,36 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 	readcsv = csv.reader(inputFile)
 	listcsv = list(readcsv)
 	outputWriter = csv.writer(outputFile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+	num_rows = len(listcsv)
+	num_attributes = len(listcsv[0])
+	keys = []
+	for i in range(0, num_attributes):
+		keys.append([])
+		for j in range(0, num_rows):
+			if not listcsv[j][i] in keys[i]:
+				keys[i].append(listcsv[j][i])
+		
+	header = []
+	for row in keys:
+		header.extend(row)
+	data = numpy.zeros((num_rows, len(header)))
+	for i in range(0, num_rows):
+		for j in range(0, num_attributes):
+			data[i][header.index(listcsv[i][j])] = 1
 	
+	outputWriter.writerow(header)
+	for row in data:
+		outputWriter.writerow(row)
+
+	'''	
+	for i in range(0, num_rows):
+		output_data.append([])
+		for j in range(0, num_attributes):
+			
+	output_data = []
+	'''		
+
+	'''
 	for oldRow in listcsv:
 		newRow = []
 
@@ -96,3 +126,4 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 
 		#Write them all to the cleaned file
 		cleanWriter.writerow(newRow)
+	'''
