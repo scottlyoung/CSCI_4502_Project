@@ -4,60 +4,10 @@ import numpy
 
 #def date_to_number:
 
-def date_received(string):
-	return [0]
-	
-def product(string):
-	return [0]
-	
-def subProduct(string):
-	return [0]
-	
-def issue(string):
-	return [0]
-	
-def subIssue(string):
-	return [0]
-	
-def consumer_complaint_narrative(string):
-	return [0]
-	
-def company_public_response(string):
-	return [0]
-	
-def company(string):
-	return [0]
-	
-def state(string):
-	return [0]
-	
-def zip_code(string):
-	return [0]
-	
-def tags(string):
-	return [0]
-	
-def consumer_consent_provided(string):
-	return [0]
-	
-def submitted_via(string):
-	return [0]
-	
-def date_sent_to_company(string):
-	return [0]
-	
-def company_response_to_consumer(string):
-	return [0]
-	
-def timely_response(string):
-	return [0]
-	
-def consumer_disputed(string):
-	return [0]
-	
-def complaint_ID(string):
-	return [string]
-	
+#converts date to numberr of days since start of 2000, is only aproximate in current state
+def stringToDateNum(string):
+	nums = string.split("/")
+	return ((int(nums[2]) - 2000) * 365) + (int(nums[1]) * 30) + int(nums[0])
 
 
 #open file here
@@ -74,19 +24,53 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 	num_rows = len(listcsv)
 	num_attributes = len(listcsv[0])
 	keys = []
+	firstDate = sys.maxsize
+	lastDate = 0
 	for i in range(0, num_attributes):
-		keys.append([])
-		for j in range(0, num_rows):
-			if not listcsv[j][i] in keys[i]:
-				keys[i].append(listcsv[j][i])
-		
+		if i == 0:
+			keys.append(["Date"])
+			for j in range(0, num_rows):
+				date = stringToDateNum(listcsv[j][i])
+				if firstDate > date:
+					firstDate = date
+				if lastDate < date:
+					lastDate = date 
+		elif i == 5:
+			keys.append(["Consumer complaint narrative"])
+		elif i == 13:
+			keys.append(["Date sent to company"])
+			for j in range(0, num_rows):
+				date = stringToDateNum(listcsv[j][i])
+				if firstDate > date:
+					firstDate = date
+				if lastDate < date:
+					lastDate = date 
+		elif i == 17:
+			keys.append(["Complaint ID"])
+		else:
+			keys.append([])
+			for j in range(0, num_rows):
+				if not listcsv[j][i] in keys[i]:
+					if not (listcsv[j][i] == "UNKNOWN" or listcsv[j][i] == "ERROR" or listcsv[j][i] == "NONE"):
+						keys[i].append(listcsv[j][i])
+	date_range = lastDate - firstDate
 	header = []
 	for row in keys:
 		header.extend(row)
 	data = numpy.zeros((num_rows, len(header)))
 	for i in range(0, num_rows):
 		for j in range(0, num_attributes):
-			data[i][header.index(listcsv[i][j])] = 1
+			if j == 0:
+				data[i][header.index("Date")] = (stringToDateNum(listcsv[i][j]) - firstDate) / date_range
+			elif j == 5:
+				data[i][header.index("Consumer complaint narrative")] = -1
+			elif j == 13:
+				data[i][header.index("Date sent to company")] = (stringToDateNum(listcsv[i][j]) - firstDate) / date_range
+			elif j == 17:
+				data[i][header.index("Complaint ID")] = listcsv[i][j]
+			else:
+				if not (listcsv[i][j] == "UNKNOWN" or listcsv[i][j] == "ERROR" or listcsv[i][j] == "NONE"):
+					data[i][header.index(listcsv[i][j])] = 1
 	
 	outputWriter.writerow(header)
 	for row in data:
