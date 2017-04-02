@@ -6,7 +6,7 @@ Date: 3/17/2017
 
 This python file is made to collect 200 entries: 100 that 
 have words in the "Consumer Complaint Narrative" attribute
-and 100 that have words in the "Company Response to Consumer"
+and 100 that have words in the "Company public response"
 attribute. The output data will be used as training data for algorithms
 
 To activate, run the following command:
@@ -19,7 +19,7 @@ complaintNarratives.csv companyResponses.csv
 
 '''
 
-#open files here. The two output files will always be "complaintNarratives.csv" (all entries that have words in the Consumer Complaint Narrative attribute) and "companyResponses.csv" (all entries that have words in the Company Response to Consumer attribute)
+#open files here. The two output files will always be "complaintNarratives.csv" (all entries that have words in the Consumer Complaint Narrative attribute) and "companyResponses.csv" (all entries that have words in the Company public response attribute)
 with open(sys.argv[1], "r") as input_File, open("complaintNarratives.csv", 'w') as complaints_File, open ("companyResponses.csv", 'w') as responses_File:
 	
 	#Add header to the new files
@@ -47,8 +47,8 @@ with open(sys.argv[1], "r") as input_File, open("complaintNarratives.csv", 'w') 
 			complaint_Detected = True
 			complaint_Counter = complaint_Counter + 1
 			
-		#Company Response to Consumer
-		if (g[14] != ''):
+		#Company public response
+		if (g[6] != ''):
 			response_Detected = True
 			response_Counter= response_Counter + 1
 		
@@ -63,6 +63,3 @@ with open(sys.argv[1], "r") as input_File, open("complaintNarratives.csv", 'w') 
 		#If both attributes have detected 100 entries each, we are allowed to leave before reading the whole file
 		if (complaint_Counter == 100 and response_Counter == 100):
 			break
-
-
-
