@@ -39,9 +39,21 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 		if (g[1] == ''):
 			g[1] = "UNKNOWN"
 				
+		#Sub-product
+		if (g[2] == ''):
+			g[2] = "UNKNOWN"
+				
 		#Issue
 		if (g[3] == ''):
 			g[3] = "UNKNOWN"
+		
+		#Sub-issue
+		if (g[4] == ''):
+			g[4] = "UNKNOWN"
+			
+		#Company public response
+		if (g[6] == ''):
+			g[6] = "UNKNOWN"
 		
 		#Company	
 		if (g[7] == ''):
@@ -54,6 +66,10 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 		#ZIP code
 		if (g[9] == ''):
 			g[9] = "UNKNOWN"
+		
+		#Tags
+		if (g[10] == ''):
+			g[10] = "NONE"
 			
 		#Consumer consent provided?
 		if (g[11] != '' and g[11] != "N/A" and g[11] != "Consent withdrawn" and g[11] != "Consent provided" and g[11] != "Consent not provided" and g[11] !="Other"):
@@ -74,6 +90,10 @@ with open(sys.argv[1], "r") as inputFile, open(sys.argv[2], 'w') as outputFile:
 		#Date sent to company
 		if (g[13] == ''):
 			g[13] = "UNKNOWN"
+				
+		#Company response to consumer
+		if (g[14] == ''):
+			g[14] = "UNKNOWN"
 			
 		#Timely Response?
 		if (g[15] != '' and g[15] != 'Yes' and g[15] != 'No'):
