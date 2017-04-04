@@ -7,7 +7,7 @@ import numpy
 #converts date to numberr of days since start of 2000, is only aproximate in current state
 def stringToDateNum(string):
 	nums = string.split("/")
-	return ((int(nums[2]) - 2000) * 365) + (int(nums[1] - 1) * 30) + int(nums[0])
+	return ((int(nums[2]) - 2000) * 365) + ((int(nums[1]) - 1) * 30) + int(nums[0])
 
 
 #open file here
