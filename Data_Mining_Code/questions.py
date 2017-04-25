@@ -2,6 +2,7 @@
 
 import sys
 import csv
+import matplotlib.pyplot as plt; plt.rcdefaults()
 
 with open(sys.argv[1], "r") as in_file_raw:
 	in_file = csv.reader(in_file_raw)
