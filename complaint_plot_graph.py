@@ -36,7 +36,7 @@ with open(sys.argv[1], "r") as input_File:
 	
 	
 	
-
+	issuelist = []
 	readcsv = csv.reader(input_File)
 	listcsv = list(readcsv)
 
@@ -48,6 +48,7 @@ with open(sys.argv[1], "r") as input_File:
 		datenum = [i for i,x in enumerate(dateList) if x == date][0]
 		
 		if issue not in issue_dict:
+			issuelist.append(issue)
 		
 			issue_dict[issue] = []
 
@@ -62,17 +63,51 @@ with open(sys.argv[1], "r") as input_File:
 
 	dateList.pop()
 	dateList.pop()
-	for d in issue_dict:
-		issue_dict[d].pop()
-		issue_dict[d].pop()
-
-		mark = plt.plot(issue_dict[d], label = d)
-	
-	plt.legend(loc = "upper right")
+	for x in range (0,5):
+		
+		issue_dict[issuelist[x]].pop()
+		issue_dict[issuelist[x]].pop()
+		plt.plot(issue_dict[issuelist[x]], label = issuelist[x])
+			
+			
+		
+			
+	plt.ylim((0,6000))
 	plt.ylabel("Occurrences")
 	plt.xlabel("Year, Month")
-	plt.grid(color = 'b', linestyle='-',linewidth = 0.1)
-	plt.show()
+	
+	plt.xticks(range(len(dateList)),dateList,rotation = 'vertical')
+	
+	plt.legend(loc = "upper right")
+	plt.title("Occurences of Complaint Types from 2011 to 2017 (Part 1)")
+	plt.grid()
+	
 
+	
+
+	
+	
+	
+	plt.show()
+	
+	for x in range (6,len(issuelist) - 1):
+		
+		issue_dict[issuelist[x]].pop()
+		issue_dict[issuelist[x]].pop()
+		plt.plot(issue_dict[issuelist[x]], label = issuelist[x])
+			
+			
+		
+			
+	plt.ylim((0,6000))
+	plt.ylabel("Occurrences")
+	plt.xlabel("Year, Month")
+	
+	plt.xticks(range(len(dateList)),dateList,rotation = 'vertical')
+	
+	plt.legend(loc = "upper right")
+	plt.title("Occurences of Complaint Types from 2011 to 2017 (Part 2)")
+	plt.grid()
+	plt.show()
 		
 		
