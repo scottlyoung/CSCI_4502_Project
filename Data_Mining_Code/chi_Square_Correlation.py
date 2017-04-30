@@ -1,8 +1,6 @@
-#!/usr/bin/python
-
 import sys
 import csv
-
+import operator
 '''
 Author: Michael Min
 Date: 3/27/2017
@@ -96,16 +94,23 @@ with open(sys.argv[1], "r") as input_File:
 		elif column1 == "response":
 			c1 = 14
 			
+		challenger = "CH"
+		
 		if column2 == "prod":
 			c2 = 1
+			challenger = "products"
 		elif column2 == "issue":
 			c2 = 3
+			challenger = "issues"
 		elif column2 == "comp":
 			c2 = 7
+			challenger = "companies"
 		elif column2 == "state":
 			c2 = 8
+			challenger = "states"
 		elif column2 == "response":
 			c2 = 14
+			challenger = "responses"
 			
 		#This just skips the header line in the csv file
 		next(input_File)
@@ -141,7 +146,7 @@ with open(sys.argv[1], "r") as input_File:
 			
 			#in the final dictionary, store each unique value in column 1. The "NULL" is reserved for the value in the second attribute the correlates best
 			#-100 is for the chi-square value between the chosen attribute 1 and 2 values
-			final_dict[entry[c1]] = ["NULL", -100]
+			final_dict[entry[c1]] = []
 			
 			
 			
@@ -161,11 +166,25 @@ with open(sys.argv[1], "r") as input_File:
 			correlation_score = chi_square(column2_value_count, column2_value_count,union_count, N)
 			
 			#If the correlation score's greater than one that the value in attribute 1 currently has, replace it
-			if (correlation_score > final_dict[combo_dict[h][0]][1]):
-				final_dict[combo_dict[h][0]] = [combo_dict[h][1], correlation_score]
- 					
+		
+			final_dict[combo_dict[h][0]].append((combo_dict[h][1], correlation_score))
+		
 
 		#Print everything out. We can reformat this later to either print things out in a more readable fashion or write to a text file
 		for j in final_dict:
-			print (j, final_dict[j])
+			sortdict = dict(final_dict[j])
+			worker = sorted(dict(final_dict[j]).items(),key=operator.itemgetter(1))[-5:]
+			summ = sum(sortdict.values())
+			count = len(sortdict)
+
+			print ("===================")
+			
+			print ("Average lift correlation for " + challenger + " and \"" + j +"\": ",summ/count)
+			
+			print ("===================")
+			print ("Highest Correlations:")
+			for k in reversed(worker):
+				print (k[0] + ": "+str(k[1]))
+
+
 
