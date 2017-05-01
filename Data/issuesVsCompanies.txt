@@ -1,0 +1,851 @@
+===================
+Average lift correlation for companies and "Customer service/Customer relations": 405.4455219318441
+===================
+Highest Correlations:
+S&N Debt Solutions, LLC: 2803.389312977099
+SBG Financial: 2803.389312977099
+Credit Restoration of Texas: 2803.389312977099
+Advanced Resolution Services Inc.: 2803.389312977099
+Jet Cash Funding Inc.: 2803.389312977099
+===================
+Average lift correlation for companies and "Received a loan I didn't apply for": 50.899179328992496
+===================
+Highest Correlations:
+Instant Cash Advance Corp: 419.9473985134362
+Kingston Financial, LLC: 377.95265866209263
+Taylor Arbitration,LLC: 314.9605488850772
+Smoky Management, LLC: 314.9605488850772
+MoneyLion Inc.: 314.9605488850772
+===================
+Average lift correlation for companies and "Deposits and withdrawals": 3.496640325508238
+===================
+Highest Correlations:
+Hello Digit, Inc: 33.375198800381696
+Prepaid Ventures, LTD: 33.375198800381696
+Money Transfer Systems, Inc.: 33.375198800381696
+Bremer Bank, National Association: 33.375198800381696
+Tesani Management Inc: 16.687599400190848
+===================
+Average lift correlation for companies and "Excessive fees": 1339.7089630473927
+===================
+Highest Correlations:
+Century First Credit Solutions: 7494.775510204083
+Consumer Attorneys of America, P.A.: 7494.775510204083
+Law Offices of Erik Graeff, PC: 7494.775510204083
+Meredian Inc: 7494.775510204083
+Performance Settlement, LLC: 3747.3877551020414
+===================
+Average lift correlation for companies and "Disclosures": 1604.4782822699838
+===================
+Highest Correlations:
+USA Credit Solutions, Inc: 17487.809523809523
+Consumer Credit Counseling Service of the Midwest, Inc.: 6995.1238095238095
+Cornerstone Legal Group, LLC: 4371.952380952381
+ClearOne Advantage, LLC: 2914.63492063492
+Travelex NY, Inc.: 2185.9761904761904
+===================
+Average lift correlation for companies and "Charged bank acct wrong day or amt": 197.95977886878725
+===================
+Highest Correlations:
+Dant-Pacific, Ltd: 2586.225352112676
+Sir Finance Corp: 1293.112676056338
+CMM, LLC: 1293.112676056338
+Pinebrook Holdings, LLC: 862.0751173708919
+Main Street Personal Finance: 574.716744913928
+===================
+Average lift correlation for companies and "Taking out the loan or lease": 26.794610712298436
+===================
+Highest Correlations:
+Globe Loan Company of Moultrie, Georgia, Inc: 178.53378706854642
+Investment Evolution Corporation: 178.53378706854642
+Friendly Finance Discount Corporation: 178.53378706854642
+Strategic Dealer Services: 178.53378706854642
+LenCo Finance of Carencro, Inc.: 178.53378706854642
+===================
+Average lift correlation for companies and "Repaying your loan": 15.847031311427264
+===================
+Highest Correlations:
+Cash Money LLC: 192.27434554973823
+Finance Authority of Maine: 160.22862129144852
+First Marblehead Education Resources: 69.43240255962768
+Rhode Island Student Loan Authority: 49.84890440178398
+New York State Higher Education Services Corporation (HESC)—: 45.779606083271005
+===================
+Average lift correlation for companies and "Application processing delay": 4.668114907827085
+===================
+Highest Correlations:
+FirstBank: 18.391626602564102
+Bank of Hawaii: 17.283697289156628
+Banco Santander Puerto Rico: 13.927639563106796
+First National Bank of Omaha: 13.1265727124183
+UMB Bank: 10.786066729323307
+===================
+Average lift correlation for companies and "Payoff process": 9.757524254477469
+===================
+Highest Correlations:
+Consumer Education Services, Inc.: 329.3668161434977
+Affiliates Management Company: 82.34170403587443
+Operating Partners Co., LLC: 47.05240230621396
+Cheek Law Offices, LLC: 32.93668161434977
+Army and Air Force Exchange Service: 8.75975574849728
+===================
+Average lift correlation for companies and "Problems when you are unable to pay": 14.922881341807164
+===================
+Highest Correlations:
+First Class Autos Inc: 82.05652999664842
+Texan Financial Services Inc: 82.05652999664842
+Portage Financial Services Company Inc.: 82.05652999664842
+K Street Finance, Inc.: 82.05652999664842
+Oplis Financial LLC: 82.05652999664842
+===================
+Average lift correlation for companies and "Bankruptcy": 22.246617572345812
+===================
+Highest Correlations:
+Brightwater Capital, LLC: 211.54608294930875
+Weinstein & Riley, P.S.: 211.54608294930875
+National Check Bureau, Inc.: 169.23686635944702
+Sacor Financial, Inc: 89.07203492602473
+SchoolsFirst Federal Credit Union: 76.92584834520318
+===================
+Average lift correlation for companies and "APR or interest rate": 2.0314856700943227
+===================
+Highest Correlations:
+Western Alliance Bancorporation: 17.039903489235336
+First National Bank of Omaha: 9.444338665929129
+Barclays PLC: 7.891230403359051
+Synchrony Financial: 7.0792341566438575
+Discover: 6.834701706825755
+===================
+Average lift correlation for companies and "Customer service / Customer relations": 3.6827692610625964
+===================
+Highest Correlations:
+Allied Data Corporation: 72.75760277365032
+Logan View LLC: 54.56820208023774
+Meyer & Njus, P.A.: 18.18940069341258
+Continental Finance Company, LLC: 11.30215188716898
+OCC: 8.730912332838038
+===================
+Average lift correlation for companies and "Communication tactics": 7.117399417131388
+===================
+Highest Correlations:
+First Credit Finance: 31.945372303409886
+Coast Collection Agency Inc: 31.945372303409886
+Kirschbaum, Nanney, Keenan & Griffin, P.A.: 31.945372303409886
+TJR Asset Recovery LLC: 31.945372303409886
+Sterling Atlantic Law Group, PC: 31.945372303409886
+===================
+Average lift correlation for companies and "Using a debit or ATM card": 6.240982961477225
+===================
+Highest Correlations:
+Alegria Auto Sales: 124.80679694137638
+Federal Reserve: 31.201699235344094
+Affiliates Management Company: 31.201699235344094
+Western Alliance Bancorporation: 31.201699235344094
+Xerox State & Local Solutions, Inc.: 30.12577857205637
+===================
+Average lift correlation for companies and "Applied for loan/did not receive money": 208.03991957485624
+===================
+Highest Correlations:
+Global Asset Agency, Inc.: 2173.0414201183435
+Patriot Finance, LLC: 2173.0414201183435
+Care Cash Express LLC: 2173.0414201183435
+Prodigy Mortgage Corp: 2173.0414201183435
+A+ Financial Services, Inc.: 1086.5207100591717
+===================
+Average lift correlation for companies and "Cash advance": 4.433968600464539
+===================
+Highest Correlations:
+FirstBank of Puerto Rico: 15.365857740585776
+First Citizens BancShares, Inc.: 12.96696855745635
+Discover: 9.940713401640483
+Banco Popular North America: 8.328378179179282
+Comerica: 8.180580873426322
+===================
+Average lift correlation for companies and "Fees": 42.09418499095827
+===================
+Highest Correlations:
+JPay Inc.: 609.3530074074074
+Blackhawk Network Holdings Inc.: 145.73174603174604
+NetSpend Corporation,  a TSYS Company: 121.7623682652457
+Xerox State & Local Solutions, Inc.: 112.56521072796934
+Synovus Bank: 38.74648203099242
+===================
+Average lift correlation for companies and "Unauthorized transactions/trans. issues": 46.92090669431355
+===================
+Highest Correlations:
+CARD Corporation: 398.74484256243215
+Plastyc, Inc.: 299.0586319218241
+Incomm Holdings, Inc.: 217.4971868522357
+Pay-O-Matic: 199.37242128121608
+Empowerment Ventures, LLC: 182.29470392047446
+===================
+Average lift correlation for companies and "Collection debt dispute": 2.793743257330605
+===================
+Highest Correlations:
+Army and Air Force Exchange Service: 8.672255413606631
+Capital One: 8.64205397101085
+Banco Santander Puerto Rico: 7.914485523097314
+Discover: 7.910645403969174
+BancorpSouth Bank: 7.344072152063273
+===================
+Average lift correlation for companies and "Billing disputes": 2.1622435048935182
+===================
+Highest Correlations:
+Thomas Kerns McKnight, LLP: 50.87538962388307
+Adir International, LLC: 25.437694811941537
+One Technologies, LP: 16.958463207961024
+Acceptance Rentals, Inc.: 12.718847405970768
+Liberty Credit Services, Inc.: 7.267912803411868
+===================
+Average lift correlation for companies and "Incorrect/missing disclosures or info": 30.023119385609963
+===================
+Highest Correlations:
+DolEx Dollar Express: 315.5017182130584
+Trans-Fast Remittance LLC: 145.61617763679618
+The Western Union Company: 119.47994062506355
+Xoom: 80.55363018205747
+MoneyGram: 75.19979838233326
+===================
+Average lift correlation for companies and "Advertising, marketing or disclosures": 74.16597818629766
+===================
+Highest Correlations:
+NetSpend Corporation,  a TSYS Company: 423.1124765973789
+Incomm Holdings, Inc.: 360.92776412776414
+PLS GROUP, INC: 168.22904260192394
+Blackhawk Network Holdings Inc.: 132.93098455598454
+Empowerment Ventures, LLC: 39.54387853989447
+===================
+Average lift correlation for companies and "Delinquent account": 5.517754051593523
+===================
+Highest Correlations:
+Puerto Rico Consumer Debt Management Co., Inc.: 79.8269753287686
+Affiliates Management Company: 59.87023149657646
+Tenaglia & Hunt, PA: 59.87023149657646
+Sharinn & Lipshie, P.C.: 34.21156085518655
+Moss Law Firm, P.C.: 23.948092598630584
+===================
+Average lift correlation for companies and "Other fee": 8.580964624236891
+===================
+Highest Correlations:
+MTACC Inc.: 348.9254156769597
+Continental Finance Company, LLC: 20.325752369531628
+Amscot Corporation: 15.860246167134529
+Amex: 6.340918069076218
+Barclays PLC: 5.732021170182127
+===================
+Average lift correlation for companies and "Lender damaged or destroyed property": 1323.8656575134855
+===================
+Highest Correlations:
+EZCORP, Inc.: 2642.043165467626
+Bank of America: 5.688149559345136
+===================
+Average lift correlation for companies and "Settlement process and costs": 25.649010551012054
+===================
+Highest Correlations:
+Mortgage America, Inc.: 84.4336130589723
+Metro Capital Mortgage Corporation: 84.43361305897228
+GLFinancial Services LLC: 84.43361305897228
+Rock Holdings Inc.: 84.43361305897228
+Charlottesville Settlement Company: 84.43361305897228
+===================
+Average lift correlation for companies and "Balance transfer": 3.3393239843588316
+===================
+Highest Correlations:
+First National Bank of Omaha: 14.343455203432134
+Barclays PLC: 13.05427405208063
+Alliance Data Card Services: 12.469026398438164
+Pentagon FCU: 10.235767939016402
+Bank of Hawaii: 8.262607854386735
+===================
+Average lift correlation for companies and "Collection practices": 2.8687198867427006
+===================
+Highest Correlations:
+Kramer & Frank, P.C.: 17.064052226842925
+Capital One: 8.981218105872413
+Discover: 7.832408251622226
+Commerce Bank: 6.640309916328016
+Amex: 6.621168779835279
+===================
+Average lift correlation for companies and "Loan modification,collection,foreclosure": 2.136956420961338
+===================
+Highest Correlations:
+Midpoint Law Group, P.C: 6.650742052029664
+Great Western Financial Services, Inc.: 6.650742052029663
+Veristone Mortgage, LLC: 6.650742052029663
+American Tax Holding LLC: 6.650742052029663
+ONY GLO, INC.: 6.650742052029663
+===================
+Average lift correlation for companies and "Incorrect exchange rate": 933.2925310172272
+===================
+Highest Correlations:
+Travelex NY, Inc.: 8346.454545454546
+PayPal Holdings, Inc.: 21.251316474741042
+Santander Bank US: 14.421519732966816
+Amex: 4.184210826145906
+Capital One: 3.419626977549747
+===================
+Average lift correlation for companies and "Overlimit fee": 5.2695032982253975
+===================
+Highest Correlations:
+IBERIABANK: 27.75842781557067
+FirstBank of Puerto Rico: 17.487809523809524
+Capital One: 11.643015661657474
+Alliance Data Card Services: 10.598672438672438
+First National Bank of Omaha: 9.143952692187986
+===================
+Average lift correlation for companies and "Loan servicing, payments, escrow account": 3.3305188854441448
+===================
+Highest Correlations:
+American Financial Mortgage Corporation: 9.801014144649054
+National Asset Advisors, LLC: 9.801014144649054
+St. James Mortgage: 9.801014144649052
+Vertical Capital Asset Management, LLC: 9.801014144649052
+Amos Financial LLC: 9.801014144649052
+===================
+Average lift correlation for companies and "Money was not available when promised": 77.92715090315171
+===================
+Highest Correlations:
+Sonali Exchange Co. Inc: 771.5210084033614
+InterCambio Express, Inc.: 771.5210084033614
+Viamericas: 462.9126050420169
+USForex Inc.: 385.7605042016807
+Remitly, Inc.: 272.30153237765694
+===================
+Average lift correlation for companies and "Application, originator, mortgage broker": 20.468003189216184
+===================
+Highest Correlations:
+Community Mortgage Corporation: 43.91820138722793
+Homeowner's Mortgage of America, Inc.: 43.91820138722793
+North American Financial Corp: 43.91820138722793
+Excel Realty & Mortgage: 43.91820138722793
+Citizens First Wholesale Mortgage Co.: 43.91820138722793
+===================
+Average lift correlation for companies and "Managing, opening, or closing account": 34.4281137313181
+===================
+Highest Correlations:
+Blackhawk Network Holdings Inc.: 184.89314033983638
+Empowerment Ventures, LLC: 184.34067079698826
+Plastyc, Inc.: 161.78149779735682
+NetSpend Corporation,  a TSYS Company: 135.6320905157237
+Woods Oviatt Gilman LLP: 129.42519823788547
+===================
+Average lift correlation for companies and "Credit reporting": 2.012507540023945
+===================
+Highest Correlations:
+Capital One: 8.982569684542526
+First Hawaiian Bank: 5.8523074961754205
+State Farm Bank: 5.653665205182521
+Amex: 5.644737246593061
+Barclays PLC: 4.968738776413865
+===================
+Average lift correlation for companies and "Fraud or scam": 52.11679884467196
+===================
+Highest Correlations:
+Simple Loans: 258.62253521126763
+Global DS Group LLC: 258.62253521126763
+American Trst Company, Inc.: 258.62253521126763
+FIRST CONSUMER, LLC: 258.62253521126763
+Garden State Check Cashing Service, Inc.: 258.62253521126763
+===================
+Average lift correlation for companies and "Forbearance / Workout plans": 4.941742843013403
+===================
+Highest Correlations:
+Law Office of Michael J. Scott, PC: 23.32152155966216
+Army and Air Force Exchange Service: 14.389875004897927
+Bonneville Billing and Collections: 14.389875004897927
+Colony Brands, Inc.: 14.163856025763403
+FirstBank of Puerto Rico: 13.526482504604052
+===================
+Average lift correlation for companies and "Improper use of my credit report": 10.502652990639348
+===================
+Highest Correlations:
+Midwest Bankers Mortgage Services, Inc: 140.62569404556768
+Gallatin Valley Financial: 140.62569404556768
+William D. Meeker Enterprises, Inc.: 84.37541642734062
+Consolidated Information Services: 70.31284702278384
+Clarity Services: 69.4447871829964
+===================
+Average lift correlation for companies and "Managing the loan or lease": 11.187226147048852
+===================
+Highest Correlations:
+Auto Acceptance, LLC: 51.12326860165658
+Courtesy Finance LLC: 51.12326860165658
+C&H INVESTMENTS, INC.: 51.12326860165658
+Credential Acceptance Corporation: 51.12326860165658
+Globe Acceptance, Inc.: 51.12326860165658
+===================
+Average lift correlation for companies and "Taking/threatening an illegal action": 15.921314739963412
+===================
+Highest Correlations:
+Duke Capital, LLC: 86.29867230642698
+Franklin Cohen and Allbright Arbitrations LLC: 86.29867230642698
+The Accounts Retrievable System, Inc.: 86.29867230642698
+Phelan Hallinan & Jones, LLC: 86.29867230642698
+Liberty Capital Services LLC: 86.29867230642698
+===================
+Average lift correlation for companies and "Adding money": 75.80284155393325
+===================
+Highest Correlations:
+Incomm Holdings, Inc.: 337.23048668503213
+Empowerment Ventures, LLC: 336.2228258682442
+Blackhawk Network Holdings Inc.: 281.52723665223664
+NetSpend Corporation,  a TSYS Company: 112.01083660763945
+JPay Inc.: 98.92094276094275
+===================
+Average lift correlation for companies and "Dealing with my lender or servicer": 11.053236207354308
+===================
+Highest Correlations:
+Integrity Group Inc: 48.021444916639425
+Student Loan Freedom, LLC: 48.021444916639425
+ReliaMax Holding Company: 48.021444916639425
+National Student Debt Advisory Corp.: 48.021444916639425
+Certified Direct Solutions: 48.021444916639425
+===================
+Average lift correlation for companies and "Lost or stolen money order": 1122.8356027828079
+===================
+Highest Correlations:
+Continental Currency Services, Inc.: 8957.170731707318
+JPay Inc.: 477.7157723577236
+PLS GROUP, INC: 303.63290615957004
+The Western Union Company: 223.7820432642196
+MoneyGram: 136.85516778773592
+===================
+Average lift correlation for companies and "Lender sold the property": 17906.4290960835
+===================
+Highest Correlations:
+Zeidman’s Jewelry & Loan of Michigan: 104926.85714285714
+Cash America International, Inc.: 1279.595818815331
+EZCORP, Inc.: 754.869475847893
+Banco Popular de Puerto Rico: 458.1958827199001
+PNC Bank N.A.: 12.471990626751115
+===================
+Average lift correlation for companies and "Getting a loan": 64.07441665470274
+===================
+Highest Correlations:
+Earnest Inc.: 626.963721724285
+Educational Opportunity: 574.716744913928
+CommonBond, Inc.: 492.61435278336694
+Climb Credit Inc.: 459.7733959311424
+Social Finance, Inc.: 301.7262910798122
+===================
+Average lift correlation for companies and "Identity theft / Fraud / Embezzlement": 2.131423090924338
+===================
+Highest Correlations:
+Bank of China USA: 18.16016812955866
+Robert W. Warner & Associates, P.C.: 18.16016812955866
+Apple Law Group, Inc.: 12.971548663970472
+IMC Capital, LLC: 12.270383871323418
+Henley, Lotterhos & Henley, PLLC: 11.350105080974163
+===================
+Average lift correlation for companies and "Lender damaged or destroyed vehicle": 637.555627594536
+===================
+Highest Correlations:
+Select Management Resources, LLC: 1177.0641025641025
+TMX Finance LLC: 1083.315634218289
+ACE Cash Express Inc.: 147.66546039404903
+CNG Financial Corporation: 142.17731320170344
+===================
+Average lift correlation for companies and "Late fee": 2.7382734126649027
+===================
+Highest Correlations:
+FDIC: 13.962322973101415
+Alliance Data Card Services: 13.327671928869535
+Synchrony Financial: 9.119814215153735
+Greene & Cooper Collections LLC: 8.726451858188383
+Lyons, Doughty & Veldhuis, P.C.: 7.756846096167452
+===================
+Average lift correlation for companies and "Credit reporting company's investigation": 1.8063707079970541
+===================
+Highest Correlations:
+Persian Acceptance Corp: 15.657052716846794
+One Source Technology: 11.742789537635097
+DCI Credit Services, Inc.: 11.742789537635097
+Accurate Background: 9.785657948029247
+Resolve Partners, LLC: 9.394231630108077
+===================
+Average lift correlation for companies and "Credit monitoring or identity protection": 8.096762055660614
+===================
+Highest Correlations:
+Creditrepair.com Holdings, Inc.: 174.33847614526468
+MyScore LLC: 87.16923807263234
+Southwest Stage Funding LLC: 43.58461903631617
+ID Analytics, Inc.: 31.697904753684487
+Collection Management Services, Inc.: 29.05641269087744
+===================
+Average lift correlation for companies and "Making/receiving payments, sending money": 5.52114698714229
+===================
+Highest Correlations:
+TDF Financial Services, Inc: 103.37621393384941
+American Title Corp: 103.37621393384941
+Concorde Land Title Services, Inc.: 103.37621393384941
+SVB Financial Group: 68.9174759558996
+Cumulus Funding LLC: 51.68810696692471
+===================
+Average lift correlation for companies and "Billing statement": 6.4820468160901505
+===================
+Highest Correlations:
+Vion Holdco I LLC: 144.52735143644233
+Emmett L. Goodman, Jr., LLC: 48.17578381214744
+Western Alliance Bancorporation: 36.13183785911058
+Scott Fetzer Financial Group, Inc.: 19.270313524858977
+Continental Finance Company, LLC: 9.354521128572319
+===================
+Average lift correlation for companies and "Credit card protection / Debt protection": 4.382122132677094
+===================
+Highest Correlations:
+Square One Financial, LLC: 92.87910976226605
+Novea Portfolio Management LLC: 34.82966616084977
+APPLE RECOVERY, LLC: 18.57582195245321
+IMC Capital, LLC: 15.061477258745846
+Boeing Employees' Credit Union: 13.592064843258447
+===================
+Average lift correlation for companies and "Charged fees or interest I didn't expect": 51.135442516969064
+===================
+Highest Correlations:
+Car Cash of Lawrenceville LLC: 280.2319725295689
+Check First Inc: 280.2319725295689
+Cashbak, LLC: 280.2319725295689
+America’s Financial Choice, Inc.: 280.2319725295689
+ClearLine Loans LLC: 280.2319725295689
+===================
+Average lift correlation for companies and "Managing the line of credit": 39.4359572910173
+===================
+Highest Correlations:
+United Credit Corp. of Southaven: 945.2870012870013
+Eagle Phillips LLC: 945.2870012870013
+PELICAN CREDIT COMPANY: 472.64350064350066
+Middle Georgia Management Services, Inc.: 472.64350064350066
+SB Holdings, Inc.: 315.0956670956671
+===================
+Average lift correlation for companies and "Arbitration": 25.90549425887004
+===================
+Highest Correlations:
+GAMACHE & MYERS, PC: 246.5552198724404
+Blackrock Mitigation Group LLC: 221.89969788519636
+Sacor Financial, Inc: 116.78931467641914
+Andreu, Palma & Andreu, PL: 76.51713720179185
+Couch Conville & Blitt LLC: 71.58054770490205
+===================
+Average lift correlation for companies and "Lender repossessed or sold the vehicle": 1167.801408470182
+===================
+Highest Correlations:
+Capitol Credit Company: 9793.173333333332
+Manor Resources, LLC: 4896.586666666666
+Simple Cash Loans, Inc.,: 3264.391111111111
+Embassy Loans: 3264.391111111111
+Rapid Auto Loans LLC: 3264.391111111111
+===================
+Average lift correlation for companies and "Unable to get credit report/credit score": 4.0477544050678995
+===================
+Highest Correlations:
+ID Analytics, Inc.: 23.332634454715848
+National Consumer Telecom & Utilities Exchange, Inc.: 15.555089636477229
+Credit Karma, Inc.: 13.758801644058483
+LexisNexis: 12.856757760761791
+One Technologies, LP: 11.66631722735792
+===================
+Average lift correlation for companies and "Convenience checks": 4.914145755437345
+===================
+Highest Correlations:
+Commerce Bank: 23.241084707148055
+Barclays PLC: 21.429067933370412
+First National Bank of Omaha: 13.428182275241097
+Discover: 5.814969762568016
+USAA Savings: 5.02407537034208
+===================
+Average lift correlation for companies and "Credit decision / Underwriting": 23.838044200684315
+===================
+Highest Correlations:
+Stonebridge Lending Inc.: 133.32510437465965
+Atlantis Financial Group, Inc: 133.32510437465965
+The Equitable Mortgage Corporation: 133.32510437465965
+Federated Mortgage Corp.: 133.32510437465965
+Standard Pacific Mortgage, Inc.: 133.32510437465965
+===================
+Average lift correlation for companies and "Unexpected/Other fees": 550.5248465050234
+===================
+Highest Correlations:
+MyCRD: 7731.452631578947
+RMCN Credit Services, Inc.: 3865.7263157894736
+Global Tel*Link Corporation: 2899.294736842105
+Law Office of James R. Vaughan, P.C.: 1288.575438596491
+Fedloan Help: 1288.575438596491
+===================
+Average lift correlation for companies and "Transaction issue": 5.775642962815565
+===================
+Highest Correlations:
+Dennis Dillon Auto Park and Truck Center, Inc.,: 141.4653312788906
+Plastyc, Inc.: 70.7326656394453
+Nationwide Acceptance LLC: 11.317226502311248
+OCC: 11.317226502311248
+Barclays PLC: 9.295766227452523
+===================
+Average lift correlation for companies and "Disclosure verification of debt": 6.376568909709469
+===================
+Highest Correlations:
+Mezzetti Financial Services, Inc.: 25.822247222612855
+Krawczyk, Duginski & Rohr, S.C.: 25.822247222612855
+Allied California: 25.822247222612855
+ICUL Service Corporation: 25.822247222612855
+Poole Mahoney PC: 25.822247222612855
+===================
+Average lift correlation for companies and "Account opening, closing, or management": 2.245716042364337
+===================
+Highest Correlations:
+Residential Ttitle & Escrow Co: 20.151115256934347
+Nations Holding Company: 20.151115256934347
+Commercial Credit Counseling Services Inc.: 20.151115256934347
+Prime Mortgage Lending, Inc.: 20.151115256934347
+Southern Star Automotive Inc.: 20.151115256934347
+===================
+Average lift correlation for companies and "Account terms and changes": 18.148960603615155
+===================
+Highest Correlations:
+Larry H. Miller Group of Companies: 306.67557411273486
+Advantage One Credit, LLC: 255.56297842727903
+Carmel Financial Corporation, Inc.: 127.78148921363952
+Great American Finance Co: 122.67022964509394
+Quick Click Loans, LLC: 49.463802276247556
+===================
+Average lift correlation for companies and "Closing/Cancelling account": 2.0720992237979057
+===================
+Highest Correlations:
+National Check Bureau, Inc.: 11.977951728636661
+Continental Finance Company, LLC: 8.915627500279715
+Barclays PLC: 8.058178737909408
+FDIC: 7.98530115242444
+First National Bank of Omaha: 7.515577555223004
+===================
+Average lift correlation for companies and "Sale of account": 41.94562955050164
+===================
+Highest Correlations:
+Vargo & Janson PC: 1106.1566265060242
+Finkelstein, Kern, Steinberg & Cunningham, PC: 158.02237521514633
+Weinman Acquisition Group: 130.13607370659108
+Federated Capital Corporation: 96.18753273965426
+Crown Asset Management, LLC: 63.20895008605852
+===================
+Average lift correlation for companies and "Can't repay my loan": 10.10392308172985
+===================
+Highest Correlations:
+The Law Offices of Richard W. Krieg, LLC: 92.76180853750947
+Oklahoma Student Loan Authority: 61.841205691672975
+First Associates Loan Servicing LLC: 46.74325508335438
+Russell P Goldman PC: 46.38090426875473
+Vermont Student Assistance Corporation: 37.791847922689044
+===================
+Average lift correlation for companies and "Credit determination": 2.328482518555732
+===================
+Highest Correlations:
+OpenRoad Lending: 10.37412429378531
+Nationwide Acceptance LLC: 9.959159322033898
+OCC: 9.959159322033898
+First National Bank of Omaha: 8.787493519441675
+Colony Brands, Inc.: 7.821329310497825
+===================
+Average lift correlation for companies and "Can't stop charges to bank account": 210.36626695847582
+===================
+Highest Correlations:
+National Cash Lenders, LLC: 1486.817813765182
+Moneyguard LLC: 1486.817813765182
+Essential Lending, Inc.: 1486.817813765182
+Progressive Debt Relief LLC: 1486.817813765182
+Three B Financial, LLC: 1486.817813765182
+===================
+Average lift correlation for companies and "Privacy": 26.478377193230077
+===================
+Highest Correlations:
+Consumer Defense Group, LLC: 766.6889352818371
+Convergys: 52.87509898495429
+World Recovery Service, LLC: 43.810796301819266
+Nationwide Debt Management Solutions, LLC: 22.222867689328613
+Admin Recovery, LLC: 17.62503299498476
+===================
+Average lift correlation for companies and "Payment to acct not credited": 146.4218826501246
+===================
+Highest Correlations:
+Clear Title Solutions, Inc.: 1704.1484918793503
+Sportsman's Credit, LLC: 1704.1484918793503
+Scott’s Jewelry & Pawn Inc.: 1704.1484918793503
+Payday Loan, LLC (CA): 852.0742459396752
+Sir Finance Corp: 852.0742459396752
+===================
+Average lift correlation for companies and "Can't contact lender": 64.79885177535282
+===================
+Highest Correlations:
+S.O.S. Loans, Inc.: 702.187380497132
+ACC Management, Inc.: 702.187380497132
+World-Wide Communication Center: 702.187380497132
+First American Solutions, LLC: 351.093690248566
+Sands Recovery Group: 351.093690248566
+===================
+Average lift correlation for companies and "Cont'd attempts collect debt not owed": 4.76090409188537
+===================
+Highest Correlations:
+CFPB Auto-Routing Test 1: 12.803318981295867
+ALG: 12.803318981295867
+Revenue Systems, Inc.: 12.803318981295867
+Figliola & Romano, LLC: 12.803318981295867
+CHECK COLLECTION OF AMERICA, INC.: 12.803318981295867
+===================
+Average lift correlation for companies and "Overdraft, savings or rewards features": 44.736684523348785
+===================
+Highest Correlations:
+NetSpend Corporation,  a TSYS Company: 401.4144008744364
+Blackhawk Network Holdings Inc.: 126.11401098901099
+Empowerment Ventures, LLC: 42.205485749310455
+Comerica: 25.06613883011399
+Pentagon FCU: 23.42416124505677
+===================
+Average lift correlation for companies and "Other service issues": 105.4008896707276
+===================
+Highest Correlations:
+South Exchange Inc: 1495.9022403258655
+Circle Internet Financial: 747.9511201629327
+Coinbase, Inc.: 527.9654965855996
+Williston Financial Group: 373.97556008146637
+Viamericas: 299.18044806517315
+===================
+Average lift correlation for companies and "Balance transfer fee": 4.972064580581573
+===================
+Highest Correlations:
+First National Bank of Omaha: 22.328256573947403
+Commerce Bank: 15.458023781963592
+Associated Bank: 14.725100240577385
+Astoria Bank: 13.396953944368443
+Barclays PLC: 10.689616445832447
+===================
+Average lift correlation for companies and "Cash advance fee": 4.730175503297047
+===================
+Highest Correlations:
+Commerce Bank: 17.30976621417798
+First National Bank of Omaha: 15.001797385620915
+Continental Finance Company, LLC: 12.38012405609493
+Barclays PLC: 9.975119513255105
+First Niagara Bank: 7.590195105820106
+===================
+Average lift correlation for companies and "Wrong amount charged or received": 135.91144520862986
+===================
+Highest Correlations:
+Envios de Valores La Nacional Corp.: 2857.9299610894946
+Moneydart Global Services Inc.: 1428.9649805447473
+Trans-Fast Remittance LLC: 219.8407662376534
+Deutsche Bank: 105.84925781812942
+The Western Union Company: 84.55414086063593
+===================
+Average lift correlation for companies and "Rewards": 2.6339008304254894
+===================
+Highest Correlations:
+Amex: 26.154690817965413
+Barclays PLC: 13.998763206563094
+City National Bank: 13.495539692601676
+First Hawaiian Bank: 7.1125141623171
+Pentagon FCU: 6.109920955356978
+===================
+Average lift correlation for companies and "Other transaction issues": 52.528521928643755
+===================
+Highest Correlations:
+Currencies Direct INC: 513.9874037788663
+TransferWise Ltd: 513.9874037788663
+American Payment Holdco, Inc.: 513.9874037788663
+Sigue: 285.54855765492573
+ACI Worldwide, Corp.: 256.99370188943317
+===================
+Average lift correlation for companies and "Incorrect information on credit report": 0.6999945930954833
+===================
+Highest Correlations:
+Vericheck: 7.5995406056969035
+Accurate Financial Services: 7.5995406056969035
+WESTERN MASS CREDIT CORP: 7.5995406056969035
+Contemporary Information Corp: 7.5995406056969035
+Verisk Analytics, Inc.: 7.5995406056969035
+===================
+Average lift correlation for companies and "Advertising and marketing": 16.750850703671468
+===================
+Highest Correlations:
+Rescue 1 Financial, LLC: 256.18695500523194
+Mathew Aaron Holdings Inc.: 256.18695500523194
+Alavi Law, PLLC: 256.18695500523194
+US Gold Cards Inc: 128.09347750261597
+Finance Store Inc.: 85.39565166841065
+===================
+Average lift correlation for companies and "Unsolicited issuance of credit card": 12.057803171681236
+===================
+Highest Correlations:
+IMC Capital, LLC: 238.2123243243243
+Bankers Healthcare Group, LLC: 209.8537142857143
+Hometown Equity Mortgage: 139.9024761904762
+Echelon Financial, Inc.: 27.980495238095237
+Rozlin Financial Group, Inc.: 24.688672268907563
+===================
+Average lift correlation for companies and "Lost or stolen check": 20.51658847404131
+===================
+Highest Correlations:
+EZCORP, Inc.: 135.48939310090387
+Amex: 33.04453678084459
+The Western Union Company: 12.382002393836713
+Santander Bank US: 8.135216259622307
+Regions Financial Corporation: 6.970031695420297
+===================
+Average lift correlation for companies and "Shopping for a line of credit": 49.63070713469353
+===================
+Highest Correlations:
+Finance Store Inc.: 821.5749440715883
+Central Business Funding: 616.1812080536913
+American Lending LLC: 616.1812080536913
+Quick Bridge Funding, LLC: 308.09060402684565
+Special Financing Company, LLC: 205.39373601789708
+===================
+Average lift correlation for companies and "Improper contact or sharing of info": 10.225802927077803
+===================
+Highest Correlations:
+Jensen & Sullivan, LLC: 76.38186356073211
+Freeborn & Peters LLP: 76.38186356073211
+Consumer Receivables Management LLC: 76.38186356073211
+South West Recovery Inc (CA): 76.38186356073211
+Isla Repossesions & Collection Inc: 76.38186356073211
+===================
+Average lift correlation for companies and "Credit line increase/decrease": 2.2890593888661805
+===================
+Highest Correlations:
+First National Bank of Omaha: 10.465708887030328
+Amex: 10.034173829525253
+IMC Capital, LLC: 9.408069681055464
+Synchrony Financial: 8.252639463794962
+Barclays PLC: 5.899975901678849
+===================
+Average lift correlation for companies and "Shopping for a loan or lease": 42.045135265457375
+===================
+Highest Correlations:
+SimpliFast Lending, LLC: 379.5803617571059
+BlueYield, Inc.: 379.5803617571059
+Applied Data Finance, LLC: 379.5803617571059
+American International Finance, Inc.: 379.5803617571059
+Santo Domingo Motors Inc.: 379.5803617571059
+===================
+Average lift correlation for companies and "Problems caused by my funds being low": 3.237879573794363
+===================
+Highest Correlations:
+First Midwest Bancorp, Inc.: 14.227646056097939
+Raymond James Bank, N. A.: 12.804881450488145
+Diverse Financial Enterprises: 12.804881450488145
+TCF National Bank: 12.692736788103298
+Old National Bank: 12.004576359832635
+===================
+Average lift correlation for companies and "Other": 3.2779377151849367
+===================
+Highest Correlations:
+Duane Morris LLP: 51.97339371638834
+Codilis & Stawarski, P.C.: 51.97339371638834
+Leopold & Associates, PLLC: 51.97339371638834
+Hartford Funding, Ltd.: 51.97339371638834
+Conville & Conville, PLLC: 51.97339371638834
+===================
+Average lift correlation for companies and "False statements or representation": 9.947888167058512
+===================
+Highest Correlations:
+Meyer & Kerschner, Ltd.: 66.9542388331814
+Retailers' Credit Association of Grass Valley, Inc.: 66.9542388331814
+Credit and Receivables Services Inc.: 66.9542388331814
+HK Recovery Group Inc.: 66.9542388331814
+Straley & Otto, P.A.: 66.9542388331814
