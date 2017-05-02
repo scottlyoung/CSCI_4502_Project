@@ -14,11 +14,11 @@ As for when the complaints were made, Mortgage complaints started out heavy when
 
 Florida and California led the field with over 64,000 complaints apiece. However, when compared to teh population of the state, Florida and California were beaten by Maryland and Delaware by a landslide.
 
-##Application of Knowledge
+## Application of Knowledge
 
 This knowledge can be applied to find states where business practices are likely less shady. This may also be able to find states where companies are held more accountable for their actions and therefore less likely to be shady.
 
-###Video Demonstration
+### Video Demonstration
 
 https://youtu.be/b1M3SvPIwW4
 
